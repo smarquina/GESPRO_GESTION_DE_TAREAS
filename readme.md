@@ -5,3 +5,4 @@ Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum
 Componentes del equipo:
 Alberto Alegre Madrid
 Sergio Castañeira Hoyos
+Álvaro Arnaiz León
