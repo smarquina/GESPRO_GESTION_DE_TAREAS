@@ -6,3 +6,4 @@ Componentes del equipo:
 Alberto Alegre Madrid
 Sergio Castañeira Hoyos
 Álvaro Arnaiz León
+Aarón González Valdivielso
