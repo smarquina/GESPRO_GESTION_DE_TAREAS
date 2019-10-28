@@ -5,4 +5,4 @@ Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum
 2.-[Alberto Porres Fernández](https://github.com/AlbertoPorres)
 3.- [Alejandro Romero Juarros](https://github.com/alejandroromero3)
 4.- [Dorota Wisniewska](https://github.com/Doriiiii)
-5.- Kacper Kotyla
+5.- [Kacper Kotyla](https://github.com/kacper-sys)
