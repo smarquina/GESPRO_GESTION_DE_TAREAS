@@ -5,5 +5,5 @@ Participantes de los grupos:
 1. Miguel Alejandro García Bilao.
 2. Humberto Marijuán Santamaría.
 3. Iker Gayangos Merino.
-4. Martín Encabo Contreras.jfkldasñjkfa
+4. Martín Encabo Contreras.
 
