@@ -3,3 +3,4 @@ Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum
 
 
 [Miguel Arroyo](https://github.com/miguelarroyo-ubu)
+[Flavio Guerrero](https://github.com/flavioguerrerov)
