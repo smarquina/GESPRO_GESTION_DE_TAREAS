@@ -6,3 +6,4 @@ Integrantes:
 * [Liviu Viorel Jula](https://github.com/ljx1002)
 * [Pablo Fernández Bravo](https://github.com/pfb1001)
 * [Rodrigo García Martín](https://github.com/rgm1004)
+* [Illya Shlyapnikov](https://github.com/illyaUBU)
