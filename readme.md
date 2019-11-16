@@ -3,8 +3,8 @@
 Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum en un proyecto software.
 
 Participantes del grupo:
-1. Miguel Alejandro García Bilbao.
-2. Humberto Marijuán Santamaría.
-3. Iker Gayangos Merino.
-4. Martín Encabo Contreras.
+1. [Miguel Alejandro García Bilbao](https://github.com/miguelgcb).
+2. [Humberto Marijuán Santamaría].
+3. [Iker Gayangos Merino].
+4. [Martín Encabo Contreras].
 
