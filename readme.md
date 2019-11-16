@@ -1,7 +1,7 @@
 # GESPRO_GESTION
 
-  1. [Guillermo Saldaña Suárez] (https://github.com/GuillermoSaldana) TONTO
-  2. [Carlos Ortuñez Rojo] (https://github.com/CarlosOrtu)
+  1. [Guillermo Saldaña Suárez](https://github.com/GuillermoSaldana) 
+  2. [Carlos Ortuñez Rojo](https://github.com/CarlosOrtu)
   3. [Andrés Rodriguez Rosales](https://github.com/andriu99)
   4. [Sergio Revilla Merino]
   
