@@ -1,4 +1,4 @@
-# GESPRO_GESTIÓN
+# GESPRO_GESTION
 
   1. [Guillermo Saldaña Suárez](https://github.com/GuillermoSaldana) 
   2. [Carlos Ortuñez Rojo](https://github.com/CarlosOrtu)
