@@ -5,4 +5,4 @@
   3. [Andrés Rodriguez Rosales](https://github.com/andriu99)
   4. [Sergio Revilla Merino](https://github.com/srevilla999)
   
-Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum en un proyecto software.
+Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum en un proyecto de software.
