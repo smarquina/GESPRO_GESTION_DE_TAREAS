@@ -23,8 +23,6 @@
     <!-- Generals  -->
     <!--+++++++++++-->
 
-    <!-- App name [CHAR LIMIT=NONE] -->
-    <string name="app_name" translatable="false">GoBees</string>
     <!-- App name - Go [CHAR LIMIT=NONE] -->
     <string name="gobees_go" translatable="false">Go</string>
     <!-- App name - Bees [CHAR LIMIT=NONE] -->
@@ -604,6 +602,8 @@
     <!-- Changelog [CHAR LIMIT=NONE] -->
     <string name="changelog" translatable="false">
         <![CDATA[
+        <b>Version 1.2:</b><br/>
+        - Minor improvements and fixes.<br/><br/>
         <b>Version 1.1:</b><br/>
         - Add user guide.<br/>
         - Minor improvements and fixes.<br/><br/>
