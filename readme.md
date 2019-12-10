@@ -7,4 +7,3 @@ Aprendizaje de la gestión de tareas mediante la simulación de un proceso Scrum
 4.- [Dorota Wisniewska](https://github.com/Doriiiii)
 5.- [Kacper Kotyla](https://github.com/kacper-sys)
 
-Hola bebesita
